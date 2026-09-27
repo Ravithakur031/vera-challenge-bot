@@ -1,0 +1,56 @@
+{
+  "slug": "gyms",
+  "offer_catalog": [
+    {
+      "title": "1-Month Trial @ ₹499",
+      "value": "499",
+      "audience": "new_user"
+    },
+    {
+      "title": "Annual Membership @ ₹12,999",
+      "value": "12999",
+      "audience": "existing"
+    }
+  ],
+  "voice": {
+    "tone": "motivational_direct",
+    "vocab_allowed": [
+      "PR",
+      "grind",
+      "consistency"
+    ],
+    "taboos": [
+      "miracle",
+      "overnight results"
+    ]
+  },
+  "peer_stats": {
+    "avg_rating": 4.3,
+    "avg_reviews": 95,
+    "avg_ctr": 0.038,
+    "scope": "delhi_ncr_gyms"
+  },
+  "digest": [
+    {
+      "id": "d_2026W17_newyear_resolution",
+      "kind": "trend",
+      "title": "New-Year sign-ups typically spike 3x in first 2 weeks of Jan",
+      "source": "magicpin category digest",
+      "summary": "Seasonal pattern: gym sign-ups spike sharply in the first two weeks of January."
+    }
+  ],
+  "patient_content_library": [],
+  "seasonal_beats": [
+    {
+      "month_range": "Jan",
+      "note": "New Year resolution surge"
+    }
+  ],
+  "trend_signals": [
+    {
+      "query": "personal trainer gurugram",
+      "delta_yoy": 0.29,
+      "segment_age": "25-45"
+    }
+  ]
+}

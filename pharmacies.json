@@ -1,0 +1,56 @@
+{
+  "slug": "pharmacies",
+  "offer_catalog": [
+    {
+      "title": "10% off on Health Checkup Packages",
+      "value": "10pct",
+      "audience": "existing"
+    },
+    {
+      "title": "Free Home Delivery above ₹500",
+      "value": "0",
+      "audience": "new_user"
+    }
+  ],
+  "voice": {
+    "tone": "trustworthy_calm",
+    "vocab_allowed": [
+      "prescription",
+      "OTC",
+      "verified"
+    ],
+    "taboos": [
+      "cure",
+      "guaranteed relief"
+    ]
+  },
+  "peer_stats": {
+    "avg_rating": 4.5,
+    "avg_reviews": 48,
+    "avg_ctr": 0.026,
+    "scope": "delhi_ncr_pharmacies"
+  },
+  "digest": [
+    {
+      "id": "d_2026W17_flu_season",
+      "kind": "research",
+      "title": "Seasonal flu cases up 22% week-over-week in NCR",
+      "source": "IMA NCR bulletin",
+      "summary": "Health authorities report a 22% week-over-week rise in seasonal flu cases across NCR."
+    }
+  ],
+  "patient_content_library": [],
+  "seasonal_beats": [
+    {
+      "month_range": "Nov-Feb",
+      "note": "flu/cold season demand spike"
+    }
+  ],
+  "trend_signals": [
+    {
+      "query": "home delivery pharmacy delhi",
+      "delta_yoy": 0.51,
+      "segment_age": "30-55"
+    }
+  ]
+}

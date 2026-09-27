@@ -1,0 +1,16 @@
+{
+  "id": "trg_008_appointment_tomorrow_004",
+  "scope": "customer",
+  "kind": "appointment_tomorrow",
+  "source": "internal",
+  "payload": {
+    "merchant_id": "m_004_studio11_salons",
+    "customer_id": "c_004_karan_for_004",
+    "category": "salons",
+    "detail": "appointment_tomorrow for Karan"
+  },
+  "urgency": 2,
+  "suppression_key": "appointment_tomorrow:m_004_studio11_salons:c_004_karan_for_004",
+  "expires_at": "2026-05-10T00:00:00Z",
+  "customer_id": "c_004_karan_for_004"
+}

@@ -1,0 +1,44 @@
+{
+  "merchant_id": "m_003_delhi_dentists",
+  "category_slug": "dentists",
+  "identity": {
+    "name": "Delhi Dental Studio",
+    "place_id": "place_m_003_delhi_dentists",
+    "locality": "Dwarka",
+    "city": "Delhi",
+    "verified": true,
+    "languages": "hi-en mix"
+  },
+  "subscription": {
+    "status": "active",
+    "days_remaining": 178,
+    "plan": "Pro"
+  },
+  "performance": {
+    "views_30d": 3061,
+    "calls_30d": 17,
+    "ctr": 0.022,
+    "directions_30d": 55,
+    "delta_7d_pct": -0.26
+  },
+  "offers": [
+    {
+      "title": "Dental Cleaning @ ₹299",
+      "value": "299",
+      "audience": "new_user"
+    }
+  ],
+  "conversation_history": {
+    "last_n_turns": [],
+    "engagement_tag": "new"
+  },
+  "customer_aggregate": {
+    "active_count": 283,
+    "lapsed_count": 47,
+    "retention_pct": 0.55
+  },
+  "signals": [
+    "ctr_below_peer_median",
+    "stale_posts"
+  ]
+}

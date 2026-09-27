@@ -1,0 +1,56 @@
+{
+  "slug": "restaurants",
+  "offer_catalog": [
+    {
+      "title": "Buy 1 Get 1 Pizza @ ₹299",
+      "value": "299",
+      "audience": "new_user"
+    },
+    {
+      "title": "Free Dessert on Weekday Dinner",
+      "value": "0",
+      "audience": "existing"
+    }
+  ],
+  "voice": {
+    "tone": "casual_hype",
+    "vocab_allowed": [
+      "fresh",
+      "sizzling",
+      "must-try"
+    ],
+    "taboos": [
+      "stale",
+      "leftover"
+    ]
+  },
+  "peer_stats": {
+    "avg_rating": 4.2,
+    "avg_reviews": 310,
+    "avg_ctr": 0.052,
+    "scope": "delhi_ncr_qsr"
+  },
+  "digest": [
+    {
+      "id": "d_2026W17_food_trend",
+      "kind": "trend",
+      "title": "Weekend brunch searches up 28% in Delhi",
+      "source": "magicpin category digest",
+      "summary": "Brunch-related searches climbed sharply this weekend across Delhi."
+    }
+  ],
+  "patient_content_library": [],
+  "seasonal_beats": [
+    {
+      "month_range": "Oct-Nov",
+      "note": "Diwali sweets & gifting spike"
+    }
+  ],
+  "trend_signals": [
+    {
+      "query": "rooftop dining delhi",
+      "delta_yoy": 0.44,
+      "segment_age": "20-35"
+    }
+  ]
+}

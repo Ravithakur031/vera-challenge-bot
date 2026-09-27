@@ -1,0 +1,55 @@
+{
+  "slug": "salons",
+  "offer_catalog": [
+    {
+      "title": "Haircut @ ₹99",
+      "value": "99",
+      "audience": "new_user"
+    },
+    {
+      "title": "Bridal Package @ ₹4,999",
+      "value": "4999",
+      "audience": "existing"
+    }
+  ],
+  "voice": {
+    "tone": "friendly_upbeat",
+    "vocab_allowed": [
+      "glow-up",
+      "makeover"
+    ],
+    "taboos": [
+      "cheap",
+      "discount-only"
+    ]
+  },
+  "peer_stats": {
+    "avg_rating": 4.6,
+    "avg_reviews": 140,
+    "avg_ctr": 0.045,
+    "scope": "tier1_city_salons"
+  },
+  "digest": [
+    {
+      "id": "d_2026W17_wedding_season",
+      "kind": "trend",
+      "title": "Wedding-season bookings up 40% in NCR salons this week",
+      "source": "magicpin category digest",
+      "summary": "Wedding-adjacent services are trending across NCR salons this week."
+    }
+  ],
+  "patient_content_library": [],
+  "seasonal_beats": [
+    {
+      "month_range": "Oct-Dec",
+      "note": "wedding season peak"
+    }
+  ],
+  "trend_signals": [
+    {
+      "query": "keratin treatment gurugram",
+      "delta_yoy": 0.35,
+      "segment_age": "22-40"
+    }
+  ]
+}

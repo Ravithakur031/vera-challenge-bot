@@ -1,0 +1,44 @@
+{
+  "merchant_id": "m_009_spice_restaurants",
+  "category_slug": "restaurants",
+  "identity": {
+    "name": "Spice Route Diner",
+    "place_id": "place_m_009_spice_restaurants",
+    "locality": "Indiranagar",
+    "city": "Bengaluru",
+    "verified": true,
+    "languages": "hi-en mix"
+  },
+  "subscription": {
+    "status": "active",
+    "days_remaining": 74,
+    "plan": "Basic"
+  },
+  "performance": {
+    "views_30d": 2961,
+    "calls_30d": 24,
+    "ctr": 0.041,
+    "directions_30d": 35,
+    "delta_7d_pct": 0.3
+  },
+  "offers": [
+    {
+      "title": "Buy 1 Get 1 Pizza @ ₹299",
+      "value": "299",
+      "audience": "new_user"
+    }
+  ],
+  "conversation_history": {
+    "last_n_turns": [],
+    "engagement_tag": "new"
+  },
+  "customer_aggregate": {
+    "active_count": 432,
+    "lapsed_count": 66,
+    "retention_pct": 0.52
+  },
+  "signals": [
+    "profile_incomplete",
+    "stale_posts"
+  ]
+}

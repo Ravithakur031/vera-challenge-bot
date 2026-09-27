@@ -1,0 +1,16 @@
+{
+  "id": "trg_010_appointment_tomorrow_005",
+  "scope": "customer",
+  "kind": "appointment_tomorrow",
+  "source": "internal",
+  "payload": {
+    "merchant_id": "m_005_glow_salons",
+    "customer_id": "c_005_sneha_for_005",
+    "category": "salons",
+    "detail": "appointment_tomorrow for Sneha"
+  },
+  "urgency": 2,
+  "suppression_key": "appointment_tomorrow:m_005_glow_salons:c_005_sneha_for_005",
+  "expires_at": "2026-05-10T00:00:00Z",
+  "customer_id": "c_005_sneha_for_005"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "trg_011_scheduled_recurring_006",
+  "scope": "merchant",
+  "kind": "scheduled_recurring",
+  "source": "internal",
+  "payload": {
+    "merchant_id": "m_006_trendz_salons",
+    "category": "salons",
+    "top_item": null,
+    "detail": "scheduled_recurring event for Trendz Unisex Salon"
+  },
+  "urgency": 1,
+  "suppression_key": "scheduled_recurring:salons:2026-W17:m_006_trendz_salons",
+  "expires_at": "2026-05-10T00:00:00Z"
+}

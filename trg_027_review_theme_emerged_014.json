@@ -1,0 +1,15 @@
+{
+  "id": "trg_027_review_theme_emerged_014",
+  "scope": "merchant",
+  "kind": "review_theme_emerged",
+  "source": "internal",
+  "payload": {
+    "merchant_id": "m_014_medplus_pharmacies",
+    "category": "pharmacies",
+    "top_item": null,
+    "detail": "review_theme_emerged event for MedPlus Corner"
+  },
+  "urgency": 1,
+  "suppression_key": "review_theme_emerged:pharmacies:2026-W17:m_014_medplus_pharmacies",
+  "expires_at": "2026-05-10T00:00:00Z"
+}

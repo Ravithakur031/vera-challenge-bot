@@ -1,0 +1,44 @@
+{
+  "merchant_id": "m_013_carewell_pharmacies",
+  "category_slug": "pharmacies",
+  "identity": {
+    "name": "CareWell Pharmacy",
+    "place_id": "place_m_013_carewell_pharmacies",
+    "locality": "Lajpat Nagar",
+    "city": "Delhi",
+    "verified": true,
+    "languages": "en"
+  },
+  "subscription": {
+    "status": "active",
+    "days_remaining": 168,
+    "plan": "Basic"
+  },
+  "performance": {
+    "views_30d": 1577,
+    "calls_30d": 25,
+    "ctr": 0.022,
+    "directions_30d": 13,
+    "delta_7d_pct": -0.27
+  },
+  "offers": [
+    {
+      "title": "10% off on Health Checkup Packages",
+      "value": "10pct",
+      "audience": "existing"
+    }
+  ],
+  "conversation_history": {
+    "last_n_turns": [],
+    "engagement_tag": "dormant"
+  },
+  "customer_aggregate": {
+    "active_count": 564,
+    "lapsed_count": 77,
+    "retention_pct": 0.3
+  },
+  "signals": [
+    "stale_posts",
+    "profile_incomplete"
+  ]
+}

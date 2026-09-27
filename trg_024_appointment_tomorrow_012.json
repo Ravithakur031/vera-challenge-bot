@@ -1,0 +1,16 @@
+{
+  "id": "trg_024_appointment_tomorrow_012",
+  "scope": "customer",
+  "kind": "appointment_tomorrow",
+  "source": "internal",
+  "payload": {
+    "merchant_id": "m_012_peakform_gyms",
+    "customer_id": "c_012_amit_for_012",
+    "category": "gyms",
+    "detail": "appointment_tomorrow for Amit"
+  },
+  "urgency": 2,
+  "suppression_key": "appointment_tomorrow:m_012_peakform_gyms:c_012_amit_for_012",
+  "expires_at": "2026-05-10T00:00:00Z",
+  "customer_id": "c_012_amit_for_012"
+}

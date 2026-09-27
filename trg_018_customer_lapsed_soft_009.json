@@ -1,0 +1,16 @@
+{
+  "id": "trg_018_customer_lapsed_soft_009",
+  "scope": "customer",
+  "kind": "customer_lapsed_soft",
+  "source": "internal",
+  "payload": {
+    "merchant_id": "m_009_spice_restaurants",
+    "customer_id": "c_009_divya_for_009",
+    "category": "restaurants",
+    "detail": "customer_lapsed_soft for Divya"
+  },
+  "urgency": 2,
+  "suppression_key": "customer_lapsed_soft:m_009_spice_restaurants:c_009_divya_for_009",
+  "expires_at": "2026-05-10T00:00:00Z",
+  "customer_id": "c_009_divya_for_009"
+}

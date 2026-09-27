@@ -1,0 +1,44 @@
+{
+  "merchant_id": "m_010_ironcore_gyms",
+  "category_slug": "gyms",
+  "identity": {
+    "name": "IronCore Fitness",
+    "place_id": "place_m_010_ironcore_gyms",
+    "locality": "Sector 14",
+    "city": "Gurugram",
+    "verified": true,
+    "languages": "en"
+  },
+  "subscription": {
+    "status": "active",
+    "days_remaining": 78,
+    "plan": "Basic"
+  },
+  "performance": {
+    "views_30d": 1090,
+    "calls_30d": 7,
+    "ctr": 0.035,
+    "directions_30d": 31,
+    "delta_7d_pct": -0.26
+  },
+  "offers": [
+    {
+      "title": "1-Month Trial @ ₹499",
+      "value": "499",
+      "audience": "new_user"
+    }
+  ],
+  "conversation_history": {
+    "last_n_turns": [],
+    "engagement_tag": "engaged"
+  },
+  "customer_aggregate": {
+    "active_count": 335,
+    "lapsed_count": 95,
+    "retention_pct": 0.4
+  },
+  "signals": [
+    "ctr_below_peer_median",
+    "dormant"
+  ]
+}

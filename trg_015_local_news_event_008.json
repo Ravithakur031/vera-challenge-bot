@@ -1,0 +1,21 @@
+{
+  "id": "trg_015_local_news_event_008",
+  "scope": "merchant",
+  "kind": "local_news_event",
+  "source": "external",
+  "payload": {
+    "merchant_id": "m_008_curry_restaurants",
+    "category": "restaurants",
+    "top_item": {
+      "id": "d_2026W17_food_trend",
+      "kind": "trend",
+      "title": "Weekend brunch searches up 28% in Delhi",
+      "source": "magicpin category digest",
+      "summary": "Brunch-related searches climbed sharply this weekend across Delhi."
+    },
+    "detail": "local_news_event event for Curry Leaf Kitchen"
+  },
+  "urgency": 4,
+  "suppression_key": "local_news_event:restaurants:2026-W17:m_008_curry_restaurants",
+  "expires_at": "2026-05-10T00:00:00Z"
+}

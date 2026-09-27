@@ -1,0 +1,15 @@
+{
+  "id": "trg_025_perf_dip_013",
+  "scope": "merchant",
+  "kind": "perf_dip",
+  "source": "internal",
+  "payload": {
+    "merchant_id": "m_013_carewell_pharmacies",
+    "category": "pharmacies",
+    "top_item": null,
+    "detail": "perf_dip event for CareWell Pharmacy"
+  },
+  "urgency": 1,
+  "suppression_key": "perf_dip:pharmacies:2026-W17:m_013_carewell_pharmacies",
+  "expires_at": "2026-05-10T00:00:00Z"
+}

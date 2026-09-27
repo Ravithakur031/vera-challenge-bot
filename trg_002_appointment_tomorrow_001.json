@@ -1,0 +1,16 @@
+{
+  "id": "trg_002_appointment_tomorrow_001",
+  "scope": "customer",
+  "kind": "appointment_tomorrow",
+  "source": "internal",
+  "payload": {
+    "merchant_id": "m_001_dr_dentists",
+    "customer_id": "c_001_priya_for_001",
+    "category": "dentists",
+    "detail": "appointment_tomorrow for Priya"
+  },
+  "urgency": 2,
+  "suppression_key": "appointment_tomorrow:m_001_dr_dentists:c_001_priya_for_001",
+  "expires_at": "2026-05-10T00:00:00Z",
+  "customer_id": "c_001_priya_for_001"
+}

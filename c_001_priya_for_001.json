@@ -1,0 +1,29 @@
+{
+  "customer_id": "c_001_priya_for_001",
+  "merchant_id": "m_001_dr_dentists",
+  "identity": {
+    "name": "Priya",
+    "phone": "<redacted>",
+    "language_pref": "en"
+  },
+  "relationship": {
+    "first_visit": "2025-11-04",
+    "last_visit": "2026-05-12",
+    "visits_total": 2,
+    "services_received": [
+      "service_a"
+    ]
+  },
+  "state": "new",
+  "preferences": {
+    "preferred_time": "weekday_evening",
+    "channel": "whatsapp"
+  },
+  "consent": {
+    "opted_in_at": "2025-11-04",
+    "scope": [
+      "recall_reminders",
+      "appointment_reminders"
+    ]
+  }
+}

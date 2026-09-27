@@ -1,0 +1,23 @@
+{
+  "id": "trg_005_local_news_event_003",
+  "scope": "merchant",
+  "kind": "local_news_event",
+  "source": "external",
+  "payload": {
+    "merchant_id": "m_003_delhi_dentists",
+    "category": "dentists",
+    "top_item": {
+      "id": "d_2026W17_jida_fluoride",
+      "kind": "research",
+      "title": "3-mo fluoride recall cuts caries recurrence 38% better than 6-mo",
+      "source": "JIDA Oct 2026, p.14",
+      "trial_n": 2100,
+      "patient_segment": "high_risk_adults",
+      "summary": "A 2,100-patient trial found 3-month fluoride recall schedules outperform 6-month schedules for high-risk adult patients."
+    },
+    "detail": "local_news_event event for Delhi Dental Studio"
+  },
+  "urgency": 3,
+  "suppression_key": "local_news_event:dentists:2026-W17:m_003_delhi_dentists",
+  "expires_at": "2026-05-10T00:00:00Z"
+}

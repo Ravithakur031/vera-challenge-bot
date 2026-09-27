@@ -1,0 +1,44 @@
+{
+  "merchant_id": "m_002_smilecare_dentists",
+  "category_slug": "dentists",
+  "identity": {
+    "name": "SmileCare Dental",
+    "place_id": "place_m_002_smilecare_dentists",
+    "locality": "Rajouri Garden",
+    "city": "Delhi",
+    "verified": true,
+    "languages": "en"
+  },
+  "subscription": {
+    "status": "active",
+    "days_remaining": 60,
+    "plan": "Pro"
+  },
+  "performance": {
+    "views_30d": 2639,
+    "calls_30d": 26,
+    "ctr": 0.031,
+    "directions_30d": 27,
+    "delta_7d_pct": -0.21
+  },
+  "offers": [
+    {
+      "title": "Dental Cleaning @ ₹299",
+      "value": "299",
+      "audience": "new_user"
+    }
+  ],
+  "conversation_history": {
+    "last_n_turns": [],
+    "engagement_tag": "dormant"
+  },
+  "customer_aggregate": {
+    "active_count": 154,
+    "lapsed_count": 21,
+    "retention_pct": 0.36
+  },
+  "signals": [
+    "dormant",
+    "ctr_below_peer_median"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "trg_029_category_trend_movement_015",
+  "scope": "merchant",
+  "kind": "category_trend_movement",
+  "source": "external",
+  "payload": {
+    "merchant_id": "m_015_healthfirst_pharmacies",
+    "category": "pharmacies",
+    "top_item": {
+      "id": "d_2026W17_flu_season",
+      "kind": "research",
+      "title": "Seasonal flu cases up 22% week-over-week in NCR",
+      "source": "IMA NCR bulletin",
+      "summary": "Health authorities report a 22% week-over-week rise in seasonal flu cases across NCR."
+    },
+    "detail": "category_trend_movement event for HealthFirst Chemist"
+  },
+  "urgency": 1,
+  "suppression_key": "category_trend_movement:pharmacies:2026-W17:m_015_healthfirst_pharmacies",
+  "expires_at": "2026-05-10T00:00:00Z"
+}

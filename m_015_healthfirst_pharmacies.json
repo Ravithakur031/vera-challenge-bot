@@ -1,0 +1,44 @@
+{
+  "merchant_id": "m_015_healthfirst_pharmacies",
+  "category_slug": "pharmacies",
+  "identity": {
+    "name": "HealthFirst Chemist",
+    "place_id": "place_m_015_healthfirst_pharmacies",
+    "locality": "Andheri",
+    "city": "Mumbai",
+    "verified": true,
+    "languages": "en"
+  },
+  "subscription": {
+    "status": "active",
+    "days_remaining": 109,
+    "plan": "Basic"
+  },
+  "performance": {
+    "views_30d": 1673,
+    "calls_30d": 20,
+    "ctr": 0.029,
+    "directions_30d": 33,
+    "delta_7d_pct": -0.13
+  },
+  "offers": [
+    {
+      "title": "10% off on Health Checkup Packages",
+      "value": "10pct",
+      "audience": "existing"
+    }
+  ],
+  "conversation_history": {
+    "last_n_turns": [],
+    "engagement_tag": "dormant"
+  },
+  "customer_aggregate": {
+    "active_count": 359,
+    "lapsed_count": 88,
+    "retention_pct": 0.55
+  },
+  "signals": [
+    "stale_posts",
+    "dormant"
+  ]
+}

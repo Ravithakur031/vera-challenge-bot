@@ -1,0 +1,15 @@
+{
+  "id": "trg_007_perf_spike_004",
+  "scope": "merchant",
+  "kind": "perf_spike",
+  "source": "internal",
+  "payload": {
+    "merchant_id": "m_004_studio11_salons",
+    "category": "salons",
+    "top_item": null,
+    "detail": "perf_spike event for Studio11 Family Salon"
+  },
+  "urgency": 4,
+  "suppression_key": "perf_spike:salons:2026-W17:m_004_studio11_salons",
+  "expires_at": "2026-05-10T00:00:00Z"
+}

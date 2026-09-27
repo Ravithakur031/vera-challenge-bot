@@ -1,0 +1,15 @@
+{
+  "id": "trg_003_dormant_with_vera_002",
+  "scope": "merchant",
+  "kind": "dormant_with_vera",
+  "source": "internal",
+  "payload": {
+    "merchant_id": "m_002_smilecare_dentists",
+    "category": "dentists",
+    "top_item": null,
+    "detail": "dormant_with_vera event for SmileCare Dental"
+  },
+  "urgency": 1,
+  "suppression_key": "dormant_with_vera:dentists:2026-W17:m_002_smilecare_dentists",
+  "expires_at": "2026-05-10T00:00:00Z"
+}

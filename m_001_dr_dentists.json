@@ -1,0 +1,44 @@
+{
+  "merchant_id": "m_001_dr_dentists",
+  "category_slug": "dentists",
+  "identity": {
+    "name": "Dr. Meera's Dental Clinic",
+    "place_id": "place_m_001_dr_dentists",
+    "locality": "Lajpat Nagar",
+    "city": "Delhi",
+    "verified": true,
+    "languages": "hi-en mix"
+  },
+  "subscription": {
+    "status": "active",
+    "days_remaining": 82,
+    "plan": "Basic"
+  },
+  "performance": {
+    "views_30d": 1256,
+    "calls_30d": 13,
+    "ctr": 0.013,
+    "directions_30d": 57,
+    "delta_7d_pct": -0.24
+  },
+  "offers": [
+    {
+      "title": "Dental Cleaning @ ₹299",
+      "value": "299",
+      "audience": "new_user"
+    }
+  ],
+  "conversation_history": {
+    "last_n_turns": [],
+    "engagement_tag": "new"
+  },
+  "customer_aggregate": {
+    "active_count": 139,
+    "lapsed_count": 85,
+    "retention_pct": 0.38
+  },
+  "signals": [
+    "stale_posts",
+    "profile_incomplete"
+  ]
+}

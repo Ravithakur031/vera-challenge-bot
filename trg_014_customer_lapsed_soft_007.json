@@ -1,0 +1,16 @@
+{
+  "id": "trg_014_customer_lapsed_soft_007",
+  "scope": "customer",
+  "kind": "customer_lapsed_soft",
+  "source": "internal",
+  "payload": {
+    "merchant_id": "m_007_pizza_restaurants",
+    "customer_id": "c_007_neha_for_007",
+    "category": "restaurants",
+    "detail": "customer_lapsed_soft for Neha"
+  },
+  "urgency": 4,
+  "suppression_key": "customer_lapsed_soft:m_007_pizza_restaurants:c_007_neha_for_007",
+  "expires_at": "2026-05-10T00:00:00Z",
+  "customer_id": "c_007_neha_for_007"
+}

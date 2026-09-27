@@ -1,0 +1,15 @@
+{
+  "id": "trg_001_dormant_with_vera_001",
+  "scope": "merchant",
+  "kind": "dormant_with_vera",
+  "source": "internal",
+  "payload": {
+    "merchant_id": "m_001_dr_dentists",
+    "category": "dentists",
+    "top_item": null,
+    "detail": "dormant_with_vera event for Dr. Meera's Dental Clinic"
+  },
+  "urgency": 2,
+  "suppression_key": "dormant_with_vera:dentists:2026-W17:m_001_dr_dentists",
+  "expires_at": "2026-05-10T00:00:00Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "trg_016_customer_lapsed_soft_008",
+  "scope": "customer",
+  "kind": "customer_lapsed_soft",
+  "source": "internal",
+  "payload": {
+    "merchant_id": "m_008_curry_restaurants",
+    "customer_id": "c_008_arjun_for_008",
+    "category": "restaurants",
+    "detail": "customer_lapsed_soft for Arjun"
+  },
+  "urgency": 3,
+  "suppression_key": "customer_lapsed_soft:m_008_curry_restaurants:c_008_arjun_for_008",
+  "expires_at": "2026-05-10T00:00:00Z",
+  "customer_id": "c_008_arjun_for_008"
+}

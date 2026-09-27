@@ -1,0 +1,16 @@
+{
+  "id": "trg_012_appointment_tomorrow_006",
+  "scope": "customer",
+  "kind": "appointment_tomorrow",
+  "source": "internal",
+  "payload": {
+    "merchant_id": "m_006_trendz_salons",
+    "customer_id": "c_006_vikram_for_006",
+    "category": "salons",
+    "detail": "appointment_tomorrow for Vikram"
+  },
+  "urgency": 4,
+  "suppression_key": "appointment_tomorrow:m_006_trendz_salons:c_006_vikram_for_006",
+  "expires_at": "2026-05-10T00:00:00Z",
+  "customer_id": "c_006_vikram_for_006"
+}

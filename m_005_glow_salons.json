@@ -1,0 +1,44 @@
+{
+  "merchant_id": "m_005_glow_salons",
+  "category_slug": "salons",
+  "identity": {
+    "name": "Glow & Go Salon",
+    "place_id": "place_m_005_glow_salons",
+    "locality": "Koramangala",
+    "city": "Bengaluru",
+    "verified": true,
+    "languages": "hi-en mix"
+  },
+  "subscription": {
+    "status": "active",
+    "days_remaining": 100,
+    "plan": "Basic"
+  },
+  "performance": {
+    "views_30d": 1664,
+    "calls_30d": 36,
+    "ctr": 0.042,
+    "directions_30d": 35,
+    "delta_7d_pct": 0.23
+  },
+  "offers": [
+    {
+      "title": "Haircut @ ₹99",
+      "value": "99",
+      "audience": "new_user"
+    }
+  ],
+  "conversation_history": {
+    "last_n_turns": [],
+    "engagement_tag": "new"
+  },
+  "customer_aggregate": {
+    "active_count": 519,
+    "lapsed_count": 28,
+    "retention_pct": 0.33
+  },
+  "signals": [
+    "ctr_below_peer_median",
+    "dormant"
+  ]
+}

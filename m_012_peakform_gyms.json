@@ -1,0 +1,44 @@
+{
+  "merchant_id": "m_012_peakform_gyms",
+  "category_slug": "gyms",
+  "identity": {
+    "name": "PeakForm Studio",
+    "place_id": "place_m_012_peakform_gyms",
+    "locality": "Whitefield",
+    "city": "Bengaluru",
+    "verified": true,
+    "languages": "hi-en mix"
+  },
+  "subscription": {
+    "status": "active",
+    "days_remaining": 23,
+    "plan": "Basic"
+  },
+  "performance": {
+    "views_30d": 1201,
+    "calls_30d": 20,
+    "ctr": 0.014,
+    "directions_30d": 20,
+    "delta_7d_pct": -0.06
+  },
+  "offers": [
+    {
+      "title": "1-Month Trial @ ₹499",
+      "value": "499",
+      "audience": "new_user"
+    }
+  ],
+  "conversation_history": {
+    "last_n_turns": [],
+    "engagement_tag": "dormant"
+  },
+  "customer_aggregate": {
+    "active_count": 268,
+    "lapsed_count": 61,
+    "retention_pct": 0.52
+  },
+  "signals": [
+    "ctr_below_peer_median",
+    "profile_incomplete"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "trg_006_appointment_tomorrow_003",
+  "scope": "customer",
+  "kind": "appointment_tomorrow",
+  "source": "internal",
+  "payload": {
+    "merchant_id": "m_003_delhi_dentists",
+    "customer_id": "c_003_ananya_for_003",
+    "category": "dentists",
+    "detail": "appointment_tomorrow for Ananya"
+  },
+  "urgency": 2,
+  "suppression_key": "appointment_tomorrow:m_003_delhi_dentists:c_003_ananya_for_003",
+  "expires_at": "2026-05-10T00:00:00Z",
+  "customer_id": "c_003_ananya_for_003"
+}

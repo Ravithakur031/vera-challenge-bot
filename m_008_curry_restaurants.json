@@ -1,0 +1,44 @@
+{
+  "merchant_id": "m_008_curry_restaurants",
+  "category_slug": "restaurants",
+  "identity": {
+    "name": "Curry Leaf Kitchen",
+    "place_id": "place_m_008_curry_restaurants",
+    "locality": "Cyber Hub",
+    "city": "Gurugram",
+    "verified": true,
+    "languages": "hi-en mix"
+  },
+  "subscription": {
+    "status": "active",
+    "days_remaining": 102,
+    "plan": "Pro"
+  },
+  "performance": {
+    "views_30d": 2972,
+    "calls_30d": 6,
+    "ctr": 0.042,
+    "directions_30d": 17,
+    "delta_7d_pct": 0.26
+  },
+  "offers": [
+    {
+      "title": "Buy 1 Get 1 Pizza @ ₹299",
+      "value": "299",
+      "audience": "new_user"
+    }
+  ],
+  "conversation_history": {
+    "last_n_turns": [],
+    "engagement_tag": "dormant"
+  },
+  "customer_aggregate": {
+    "active_count": 295,
+    "lapsed_count": 17,
+    "retention_pct": 0.32
+  },
+  "signals": [
+    "stale_posts",
+    "profile_incomplete"
+  ]
+}

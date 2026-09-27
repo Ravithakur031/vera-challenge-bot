@@ -1,0 +1,21 @@
+{
+  "id": "trg_017_festival_upcoming_009",
+  "scope": "merchant",
+  "kind": "festival_upcoming",
+  "source": "external",
+  "payload": {
+    "merchant_id": "m_009_spice_restaurants",
+    "category": "restaurants",
+    "top_item": {
+      "id": "d_2026W17_food_trend",
+      "kind": "trend",
+      "title": "Weekend brunch searches up 28% in Delhi",
+      "source": "magicpin category digest",
+      "summary": "Brunch-related searches climbed sharply this weekend across Delhi."
+    },
+    "detail": "festival_upcoming event for Spice Route Diner"
+  },
+  "urgency": 2,
+  "suppression_key": "festival_upcoming:restaurants:2026-W17:m_009_spice_restaurants",
+  "expires_at": "2026-05-10T00:00:00Z"
+}

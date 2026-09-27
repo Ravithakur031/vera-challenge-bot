@@ -1,0 +1,44 @@
+{
+  "merchant_id": "m_014_medplus_pharmacies",
+  "category_slug": "pharmacies",
+  "identity": {
+    "name": "MedPlus Corner",
+    "place_id": "place_m_014_medplus_pharmacies",
+    "locality": "Sector 62",
+    "city": "Noida",
+    "verified": true,
+    "languages": "hi-en mix"
+  },
+  "subscription": {
+    "status": "active",
+    "days_remaining": 169,
+    "plan": "Pro"
+  },
+  "performance": {
+    "views_30d": 962,
+    "calls_30d": 21,
+    "ctr": 0.032,
+    "directions_30d": 23,
+    "delta_7d_pct": 0.1
+  },
+  "offers": [
+    {
+      "title": "10% off on Health Checkup Packages",
+      "value": "10pct",
+      "audience": "existing"
+    }
+  ],
+  "conversation_history": {
+    "last_n_turns": [],
+    "engagement_tag": "dormant"
+  },
+  "customer_aggregate": {
+    "active_count": 294,
+    "lapsed_count": 43,
+    "retention_pct": 0.37
+  },
+  "signals": [
+    "dormant",
+    "ctr_below_peer_median"
+  ]
+}

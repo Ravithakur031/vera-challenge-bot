@@ -1,0 +1,15 @@
+{
+  "id": "trg_009_review_theme_emerged_005",
+  "scope": "merchant",
+  "kind": "review_theme_emerged",
+  "source": "internal",
+  "payload": {
+    "merchant_id": "m_005_glow_salons",
+    "category": "salons",
+    "top_item": null,
+    "detail": "review_theme_emerged event for Glow & Go Salon"
+  },
+  "urgency": 4,
+  "suppression_key": "review_theme_emerged:salons:2026-W17:m_005_glow_salons",
+  "expires_at": "2026-05-10T00:00:00Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "trg_021_category_research_digest_release_011",
+  "scope": "merchant",
+  "kind": "category_research_digest_release",
+  "source": "external",
+  "payload": {
+    "merchant_id": "m_011_pulsefit_gyms",
+    "category": "gyms",
+    "top_item": {
+      "id": "d_2026W17_newyear_resolution",
+      "kind": "trend",
+      "title": "New-Year sign-ups typically spike 3x in first 2 weeks of Jan",
+      "source": "magicpin category digest",
+      "summary": "Seasonal pattern: gym sign-ups spike sharply in the first two weeks of January."
+    },
+    "detail": "category_research_digest_release event for PulseFit Gym"
+  },
+  "urgency": 1,
+  "suppression_key": "category_research_digest_release:gyms:2026-W17:m_011_pulsefit_gyms",
+  "expires_at": "2026-05-10T00:00:00Z"
+}

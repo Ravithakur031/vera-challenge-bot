@@ -1,0 +1,16 @@
+{
+  "id": "trg_022_appointment_tomorrow_011",
+  "scope": "customer",
+  "kind": "appointment_tomorrow",
+  "source": "internal",
+  "payload": {
+    "merchant_id": "m_011_pulsefit_gyms",
+    "customer_id": "c_011_pooja_for_011",
+    "category": "gyms",
+    "detail": "appointment_tomorrow for Pooja"
+  },
+  "urgency": 4,
+  "suppression_key": "appointment_tomorrow:m_011_pulsefit_gyms:c_011_pooja_for_011",
+  "expires_at": "2026-05-10T00:00:00Z",
+  "customer_id": "c_011_pooja_for_011"
+}

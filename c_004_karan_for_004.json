@@ -1,0 +1,29 @@
+{
+  "customer_id": "c_004_karan_for_004",
+  "merchant_id": "m_004_studio11_salons",
+  "identity": {
+    "name": "Karan",
+    "phone": "<redacted>",
+    "language_pref": "hi-en mix"
+  },
+  "relationship": {
+    "first_visit": "2025-11-04",
+    "last_visit": "2026-05-12",
+    "visits_total": 1,
+    "services_received": [
+      "service_a"
+    ]
+  },
+  "state": "active",
+  "preferences": {
+    "preferred_time": "weekday_evening",
+    "channel": "whatsapp"
+  },
+  "consent": {
+    "opted_in_at": "2025-11-04",
+    "scope": [
+      "recall_reminders",
+      "appointment_reminders"
+    ]
+  }
+}

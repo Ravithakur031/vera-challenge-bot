@@ -1,0 +1,44 @@
+{
+  "merchant_id": "m_007_pizza_restaurants",
+  "category_slug": "restaurants",
+  "identity": {
+    "name": "Pizza Junction",
+    "place_id": "place_m_007_pizza_restaurants",
+    "locality": "Hauz Khas",
+    "city": "Delhi",
+    "verified": true,
+    "languages": "hi-en mix"
+  },
+  "subscription": {
+    "status": "active",
+    "days_remaining": 60,
+    "plan": "Pro"
+  },
+  "performance": {
+    "views_30d": 2193,
+    "calls_30d": 5,
+    "ctr": 0.016,
+    "directions_30d": 56,
+    "delta_7d_pct": 0.23
+  },
+  "offers": [
+    {
+      "title": "Buy 1 Get 1 Pizza @ ₹299",
+      "value": "299",
+      "audience": "new_user"
+    }
+  ],
+  "conversation_history": {
+    "last_n_turns": [],
+    "engagement_tag": "dormant"
+  },
+  "customer_aggregate": {
+    "active_count": 562,
+    "lapsed_count": 32,
+    "retention_pct": 0.4
+  },
+  "signals": [
+    "stale_posts",
+    "dormant"
+  ]
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "test_id": "T01",
+    "merchant_id": "m_001_dr_dentists",
+    "trigger_id": "trg_001_dormant_with_vera_001",
+    "customer_id": null
+  },
+  {
+    "test_id": "T02",
+    "merchant_id": "m_001_dr_dentists",
+    "trigger_id": "trg_002_appointment_tomorrow_001",
+    "customer_id": "c_001_priya_for_001"
+  },
+  {
+    "test_id": "T03",
+    "merchant_id": "m_002_smilecare_dentists",
+    "trigger_id": "trg_003_dormant_with_vera_002",
+    "customer_id": null
+  },
+  {
+    "test_id": "T04",
+    "merchant_id": "m_002_smilecare_dentists",
+    "trigger_id": "trg_004_appointment_tomorrow_002",
+    "customer_id": "c_002_rohit_for_002"
+  },
+  {
+    "test_id": "T05",
+    "merchant_id": "m_003_delhi_dentists",
+    "trigger_id": "trg_005_local_news_event_003",
+    "customer_id": null
+  },
+  {
+    "test_id": "T06",
+    "merchant_id": "m_003_delhi_dentists",
+    "trigger_id": "trg_006_appointment_tomorrow_003",
+    "customer_id": "c_003_ananya_for_003"
+  },
+  {
+    "test_id": "T07",
+    "merchant_id": "m_004_studio11_salons",
+    "trigger_id": "trg_007_perf_spike_004",
+    "customer_id": null
+  },
+  {
+    "test_id": "T08",
+    "merchant_id": "m_004_studio11_salons",
+    "trigger_id": "trg_008_appointment_tomorrow_004",
+    "customer_id": "c_004_karan_for_004"
+  },
+  {
+    "test_id": "T09",
+    "merchant_id": "m_005_glow_salons",
+    "trigger_id": "trg_009_review_theme_emerged_005",
+    "customer_id": null
+  },
+  {
+    "test_id": "T10",
+    "merchant_id": "m_005_glow_salons",
+    "trigger_id": "trg_010_appointment_tomorrow_005",
+    "customer_id": "c_005_sneha_for_005"
+  },
+  {
+    "test_id": "T11",
+    "merchant_id": "m_006_trendz_salons",
+    "trigger_id": "trg_011_scheduled_recurring_006",
+    "customer_id": null
+  },
+  {
+    "test_id": "T12",
+    "merchant_id": "m_006_trendz_salons",
+    "trigger_id": "trg_012_appointment_tomorrow_006",
+    "customer_id": "c_006_vikram_for_006"
+  },
+  {
+    "test_id": "T13",
+    "merchant_id": "m_007_pizza_restaurants",
+    "trigger_id": "trg_013_local_news_event_007",
+    "customer_id": null
+  },
+  {
+    "test_id": "T14",
+    "merchant_id": "m_007_pizza_restaurants",
+    "trigger_id": "trg_014_customer_lapsed_soft_007",
+    "customer_id": "c_007_neha_for_007"
+  },
+  {
+    "test_id": "T15",
+    "merchant_id": "m_008_curry_restaurants",
+    "trigger_id": "trg_015_local_news_event_008",
+    "customer_id": null
+  },
+  {
+    "test_id": "T16",
+    "merchant_id": "m_008_curry_restaurants",
+    "trigger_id": "trg_016_customer_lapsed_soft_008",
+    "customer_id": "c_008_arjun_for_008"
+  },
+  {
+    "test_id": "T17",
+    "merchant_id": "m_009_spice_restaurants",
+    "trigger_id": "trg_017_festival_upcoming_009",
+    "customer_id": null
+  },
+  {
+    "test_id": "T18",
+    "merchant_id": "m_009_spice_restaurants",
+    "trigger_id": "trg_018_customer_lapsed_soft_009",
+    "customer_id": "c_009_divya_for_009"
+  },
+  {
+    "test_id": "T19",
+    "merchant_id": "m_010_ironcore_gyms",
+    "trigger_id": "trg_019_category_research_digest_release_010",
+    "customer_id": null
+  },
+  {
+    "test_id": "T20",
+    "merchant_id": "m_010_ironcore_gyms",
+    "trigger_id": "trg_020_customer_lapsed_soft_010",
+    "customer_id": "c_010_rahul_for_010"
+  },
+  {
+    "test_id": "T21",
+    "merchant_id": "m_011_pulsefit_gyms",
+    "trigger_id": "trg_021_category_research_digest_release_011",
+    "customer_id": null
+  },
+  {
+    "test_id": "T22",
+    "merchant_id": "m_011_pulsefit_gyms",
+    "trigger_id": "trg_022_appointment_tomorrow_011",
+    "customer_id": "c_011_pooja_for_011"
+  },
+  {
+    "test_id": "T23",
+    "merchant_id": "m_012_peakform_gyms",
+    "trigger_id": "trg_023_category_trend_movement_012",
+    "customer_id": null
+  },
+  {
+    "test_id": "T24",
+    "merchant_id": "m_012_peakform_gyms",
+    "trigger_id": "trg_024_appointment_tomorrow_012",
+    "customer_id": "c_012_amit_for_012"
+  },
+  {
+    "test_id": "T25",
+    "merchant_id": "m_013_carewell_pharmacies",
+    "trigger_id": "trg_025_perf_dip_013",
+    "customer_id": null
+  },
+  {
+    "test_id": "T26",
+    "merchant_id": "m_013_carewell_pharmacies",
+    "trigger_id": "trg_026_customer_lapsed_soft_013",
+    "customer_id": "c_013_kavya_for_013"
+  },
+  {
+    "test_id": "T27",
+    "merchant_id": "m_014_medplus_pharmacies",
+    "trigger_id": "trg_027_review_theme_emerged_014",
+    "customer_id": null
+  },
+  {
+    "test_id": "T28",
+    "merchant_id": "m_014_medplus_pharmacies",
+    "trigger_id": "trg_028_customer_lapsed_soft_014",
+    "customer_id": "c_014_suresh_for_014"
+  },
+  {
+    "test_id": "T29",
+    "merchant_id": "m_015_healthfirst_pharmacies",
+    "trigger_id": "trg_029_category_trend_movement_015",
+    "customer_id": null
+  },
+  {
+    "test_id": "T30",
+    "merchant_id": "m_015_healthfirst_pharmacies",
+    "trigger_id": "trg_030_customer_lapsed_soft_015",
+    "customer_id": "c_015_meena_for_015"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "id": "trg_023_category_trend_movement_012",
+  "scope": "merchant",
+  "kind": "category_trend_movement",
+  "source": "external",
+  "payload": {
+    "merchant_id": "m_012_peakform_gyms",
+    "category": "gyms",
+    "top_item": {
+      "id": "d_2026W17_newyear_resolution",
+      "kind": "trend",
+      "title": "New-Year sign-ups typically spike 3x in first 2 weeks of Jan",
+      "source": "magicpin category digest",
+      "summary": "Seasonal pattern: gym sign-ups spike sharply in the first two weeks of January."
+    },
+    "detail": "category_trend_movement event for PeakForm Studio"
+  },
+  "urgency": 4,
+  "suppression_key": "category_trend_movement:gyms:2026-W17:m_012_peakform_gyms",
+  "expires_at": "2026-05-10T00:00:00Z"
+}
